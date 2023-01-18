@@ -5516,7 +5516,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid f5a7fbdc-fd2b-420f-82f1-a74e990705c6)
   )
-  (label "D09" (at 730.25 302.26 270)
+  (label "D09" (at 685.8 292.1 180)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid f66ca14e-976b-4727-af62-9b8d437d9225)
   )
