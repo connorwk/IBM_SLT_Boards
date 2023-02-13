@@ -1980,5 +1980,14 @@
     (path "/56a7ae3a-9bd5-46db-84f7-6eb6076da029/8cc21a87-f851-40bc-8bd9-74c8c5870a99"
       (reference "J516") (unit 1) (value "~") (footprint "")
     )
+    (path "/f4a227f7-f3bc-425e-8cbd-221846cdbf69/98bb3bf7-3dad-4214-9084-164d02374574"
+      (reference "JP?") (unit 1) (value "NO CYCLE STEAL") (footprint "")
+    )
+    (path "/f4a227f7-f3bc-425e-8cbd-221846cdbf69/e513f70b-4a02-4651-b6e2-005d12f2a559"
+      (reference "JP?") (unit 1) (value "NO CYCLE STEAL") (footprint "")
+    )
+    (path "/f4a227f7-f3bc-425e-8cbd-221846cdbf69/f44c85c5-3daa-473e-8a3f-24f2629c7e2e"
+      (reference "JP?") (unit 1) (value "NO 1442") (footprint "")
+    )
   )
 )
