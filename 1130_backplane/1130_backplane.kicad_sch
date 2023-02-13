@@ -48,6 +48,12 @@
   )
 
 
+  (text "Rules:\nAny \" \" or \"┛\" characters in net names replaced with \"_\".\nAny nets \"dotted\" together with two different names must be connected nearest the unit with an output on that page.\n	EX: KA101 \"-PROG_LD_NOT_SRP_OR_PT_RESP\" and \"+RUN_PROG_LOAD_DOT_ON_RUN\", connect near 01B-A1C4."
+    (at 25.4 78.74 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid c21c06d3-b4ae-4131-91d6-e5ec0cb8f0eb)
+  )
+
   (label "-3V" (at 173.99 25.4 90)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 0b5dedbe-b0f8-497a-92f8-f82a0795735a)
